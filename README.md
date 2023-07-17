@@ -7,8 +7,13 @@ I'm Bhuvaneswari, a passionate Front-end Developer with 2 years of experience. I
 🌟 Skills
 
 Languages: HTML5, CSS3, JavaScript (ES6+)
+
 Frameworks/Libraries: React, Angular
+
 CSS Frameworks: Bootstrap, Material-ui
+
 Version Control: Git, GitHub
+
 UI/UX: Responsive Web Design
+
 Tools: Visual Studio Code
